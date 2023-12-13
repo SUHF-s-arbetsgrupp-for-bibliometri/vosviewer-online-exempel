@@ -9,7 +9,7 @@ Kodfragment till "Nätverksvisualisering med VOSviewer" 2023-12-15
   <li><b>ExampleNetwork.json</b> - 978 publikationer från Institutionen för datavetenskap vid UmU. Kluster skapade på basis av gemensamma referenser och termer från titel och abstract. Här en partitionering bestående av 16 kluster.</li>
   <li><b>clusterInfo.txt</b> - En beskrivning av varje kluster.</li>
   <li><b>itemInfo.txt</b> - Information rörande varje enskild nod, här ScopusID och titel. ID används för att generera länkar in till Scopus.</li>
-  <li><b>index.html</b> - HTML-fil där vi använder VOSViewer online för att rendera ExampleNetwork.json och EampleNetworkAugmented.json</li>		
+  <li><b><a href="https://rawcdn.githack.com/SUHF-s-arbetsgrupp-for-bibliometri/vosviewer-online-exempel/fb48deca601414399780833d39fda731d1886a1b/index.html">index.html</a></b> - HTML-fil där vi använder VOSViewer online för att rendera ExampleNetwork.json och EampleNetworkAugmented.json</li>		
 </ul>
 
 
