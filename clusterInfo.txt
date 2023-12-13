@@ -1,0 +1,16 @@
+1	agent; explanation; contextual importance; explainability; explainable artificial intelligence; artificial intelligence; xai; explainable; ciu; explainable ai
+2	cloud computing; cloud; resource; cloud application; workload; virtual machine; cloud compute; service; controller; application
+3	argumentation; argument; dialogue; argumentation semantic; older adult; activity; formal argumentation; non-monotonic reasoning; preference; argumentation framework
+4	data privacy; privacy; hesitant fuzzy set; federated learning; federate learn; fuzzy measure; choquet integral; anonymity; decision tree; feature selection
+5	grammar; tree; str; regular expression; hyperedge replacement; language; automata; graph grammar; contextual hyperedge replacement; parse
+6	robot; robot interaction; human; intention; learning from demonstration; pepper robot; gesture; hri; semantic networks; human-robot interaction
+7	bundle adjustment; camera; dbat; image; rgb camera; photogrammetry; harvest; depth information; greenhouse; rgb
+8	lapack; bla; eigenvector; scalapack; real schur form; numerical experiment; linear system; armadillo; linear algebra; julia
+9	topology optimization; helmholtz equation; design variable; material distribution; shape optimization; frequency; boundary condition; mesh; finite element; waveguide
+10	anomaly detection; iot; internet; microservice; thing; testb; anomaly; internet of things; attack; ddo
+11	virtual knowledge graph; ontology; data access; knowledge graph; vkg; database; obda; ontology-based data access; relational database; data source
+12	logic; quantale; monad; healthy age; signature; term monad; complete lattice; european innovation partnership; category theory; valuedness
+13	job; hpc; high performance compute; grid; hpc system; compute environment; schedule algorithm; slurm; grid computing; scientific workflow
+14	congruence; orbit; skew; stratification; symmetric matrix pencil; small perturbation; matrix equation; orbits; canonical structure information; matrix polynomials
+15	route; navigation; route instruction; navigation system; men; spatial information; wayfind; indoor environment; pedestrian navigation; spatial cognition
+16	fat tissue; intra-body communication; fat channel; phantom; channel characterization; intra; dielectric properties; blood vessel; ghz; ex-vivo

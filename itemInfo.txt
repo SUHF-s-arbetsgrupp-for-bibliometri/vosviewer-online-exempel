@@ -1,0 +1,979 @@
+2-s2.0-85015226678	An activity-centric argumentation framework for assistive technology aimed at improving health
+2-s2.0-85092433894	The STAR-C intelligent coach: A cross-disciplinary design process of a behavior change intervention in primary care
+2-s2.0-84876471164	A long-tracked bogie design for forestry machines on soft and rough terrain
+2-s2.0-85071883425	DM-MCDA: A web-based platform for data mining and multiple criteria decision analysis: A case study on road accident
+2-s2.0-85091418200	Rewriting count queries over DL-lite TBoxes with number restrictions
+2-s2.0-85091407316	The virtual knowledge graph system ontop
+2-s2.0-85054167095	A householder-based algorithm for hessenberg-triangular reduction
+2-s2.0-85078491997	Adversarial impact on anomaly detection in cloud datacenters
+2-s2.0-85066499586	Utility-based Allocation of Industrial IoT Applications in Mobile Edge Clouds
+2-s2.0-85131752144	Comparison of rhinitis treatments using MASK-airÂ® data and considering the minimal important difference
+2-s2.0-85138813811	P-IT2IFCM: Probabilistic Interval Type-2 Intuitionistic Fuzzy c-Means Clustering Algorithm
+2-s2.0-85125779732	A Definition for Hesitant Fuzzy Partitions
+2-s2.0-84981297799	A global learning with local preservation method for microarray data imputation
+2-s2.0-85088391721	ASA - The Adaptive Scheduling Architecture
+2-s2.0-84881282427	Topology optimization of UWB monopole antennas
+2-s2.0-84864205741	Automating the generation, deployment and application of charging schemes for composed communications services
+2-s2.0-85102713934	Sustainable Behavior Change for Health Supported by Person-Tailored, Adaptive, Risk-Aware Digital Coaching in a Social Context: Study Protocol for the STAR-C Research Programme
+2-s2.0-84979776469	DieHard: Reliable Scheduling to Survive Correlated Failures in Cloud Data Centers
+2-s2.0-84871586550	Self-directed learning: Stories from industry
+2-s2.0-85048400174	Module theory in sup
+2-s2.0-85021813445	The effects of visual realism, spatial abilities, and competition on performance in map-based route learning in men
+2-s2.0-84876897395	Simulation relations for pattern matching in directed graphs
+2-s2.0-85113998530	The quest of parsimonious XAI: A human-agent architecture for explanation formulation
+2-s2.0-85122740548	Development and validation of combined symptom-medication scores for allergic rhinitis*
+2-s2.0-85061037460	Ethics by Design: Necessity or Curse?
+2-s2.0-85127162690	Contextual Importance and Utility: A Theoretical Foundation
+2-s2.0-85037678926	Comparative testing of dark matter models with 15 HSB and 15 LSB galaxies
+2-s2.0-85056658726	On equal-width length-scale control in topology optimization
+2-s2.0-85069517887	Multivariate LSTM-Based location-aware workload prediction for edge data centers
+2-s2.0-84860279492	Potentials of possible machine systems for directly loading logs in cut-to-length harvesting
+2-s2.0-85040625465	Personality-based knowledge extraction for privacy-preserving data analysis
+2-s2.0-85117064804	Towards better process management in wastewater treatment plants: Process analytics based on SHAP values for tree-based machine learning methods
+2-s2.0-85055493723	MeDI: Measurement-based Device Identification Framework for Internet of Things
+2-s2.0-85089018373	Robust parallel eigenvector computation for the non-symmetric eigenvalue problem
+2-s2.0-84893129960	Category theoretic ontology for representation of assessment scales and consensus guidelines in elderly care
+2-s2.0-84897066669	ALI: An assisted living system for persons with mild cognitive impairment
+2-s2.0-85050674091	Inferring robot actions from verbal commands using shallow semantic parsing
+2-s2.0-85136094020	Map equation centrality: community-aware centrality based on the map equation
+2-s2.0-84983425431	Towards Understanding Job Heterogeneity in HPC: A NERSC Case Study
+2-s2.0-85074395978	Performance of RGB-D camera for different object types in greenhouse conditions
+2-s2.0-85139453642	HFC: Data clustering based on hesitant fuzzy decision making
+2-s2.0-85009804174	MAIoT - an IoT architecture with reasoning and dialogue capability
+2-s2.0-84911458058	A parallel QZ algorithm for distributed memory HPC systems
+2-s2.0-85124659373	Socially Aware Interactions: FromÂ Dialogue Trees toÂ Natural Language Dialogue Systems
+2-s2.0-84883721654	A virtual machine re-packing approach to the horizontal vs. vertical elasticity trade-off for cloud autoscaling
+2-s2.0-85038583840	Deterministic Stack Transducers
+2-s2.0-84898374801	Elderly care cost control using observation, assessment, and decision-making
+2-s2.0-84893297340	Introducing service-level awareness in the cloud
+2-s2.0-85137092010	A survey on blockchain, SDN and NFV for the smart-home security
+2-s2.0-84991671362	Conjunctive query containment over trees using schema information
+2-s2.0-84959295743	Efficient incremental evaluation of succinct regular expressions
+2-s2.0-85095424248	A digital twin for risk modeling and decision-support in a smart energy grid
+2-s2.0-85063459776	The value of values and norms in social simulation
+2-s2.0-85073098035	The sustainability game: AI technology as an intervention for public understanding of cooperative investment
+2-s2.0-85096571668	Semantic Integration of Bosch Manufacturing Data Using Virtual Knowledge Graphs
+2-s2.0-85137524214	Well-founded Semantics for Recursive SHACL
+2-s2.0-84973879572	Optimization of an intraocular lens for correction of advanced corneal refractive errors
+2-s2.0-85068673220	Design of planar microstrip-to-waveguide transitions using topology optimization
+2-s2.0-85072854796	Explainable multi-agent systems through blockchain technology
+2-s2.0-85051483992	Evaluation of approach strategies for harvesting robots: Case study of sweet pepper harvesting: Category: (5)
+2-s2.0-85050496869	Power and performance optimization in FPGA-accelerated clouds
+2-s2.0-84979645585	A framework for data exchange and benchmarking of frictional contact solvers in multibody dynamics
+2-s2.0-85114680117	A Survey on Tree Aggregation
+2-s2.0-85027279510	Acceleration of Semiempirical QM/MM Methods through Message Passage Interface (MPI), Hybrid MPI/Open Multiprocessing, and Self-Consistent Field Accelerator Implementations
+2-s2.0-85039911832	Increasing the credibility of expert-based models with preference surveys â€“ Mapping recreation in the riverine zone
+2-s2.0-84866524337	Estimating wheel slip for a forest machine using RTK-DGPS
+2-s2.0-85138534515	PSO + FL = PAASO: particle swarm optimization + federated learning = privacy-aware agent swarm optimization
+2-s2.0-84893947966	Focus group evaluation of scenarios for fall risk assessment and fall prevention in two countries
+2-s2.0-85070985979	Performance anomaly detection using datacenter landscape graphs
+2-s2.0-84960407374	Between a rock and a hard place - Uniform parsing for hyperedge replacement DAG grammars
+2-s2.0-85030183157	Modules in health classifications
+2-s2.0-85053234322	Heat recovery unit failure detection in air handling unit
+2-s2.0-85083279031	An Ultra Broadband Multi-Tone Six-Port Radar for Distance Measurements in K-Band Waveguides
+2-s2.0-85028921042	Acoustic shape optimization using cut finite elements
+2-s2.0-85104447939	The space of models in machine learning: using Markov chains to model transitions
+2-s2.0-85147796974	Cooperative Geometric Scheme for Passive Localization of Target in an Indoor Environment
+2-s2.0-85111466282	ADaMaP: Automatic Alignment of Relational Data Sources Using Mapping Patterns
+2-s2.0-85058302689	Effects of blood vessels on fat channel microwave communication
+2-s2.0-85029478388	Tight Bounds for Cut-Operations on Deterministic Finite Automata
+2-s2.0-85112256465	Autonomous agents on the Edge of things
+2-s2.0-85065412672	How does navigation system behavior influence human behavior?
+2-s2.0-85076258710	Why cloud applications are not ready for the edge (yet)
+2-s2.0-85048551989	Miniversal deformations of pairs of symmetric matrices under congruence
+2-s2.0-85051528738	Reprocessing close range terrestrial and uav photogrammetric projects with the dbat toolbox for independent verification and quality control
+2-s2.0-85035314261	A Black-Box Approach for Detecting Systems Anomalies in Virtualized Environments
+2-s2.0-84919931822	Orbit closure hierarchies of skew-symmetric matrix pencils
+2-s2.0-84885573149	User-Control of Personalised Intelligent Environments which Support Health
+2-s2.0-85025167176	A review of cloud computing simulation platforms & related environments
+2-s2.0-85096155563	Agents are dead. long live agents! Blue sky ideas track
+2-s2.0-85144947915	CoviBlock: A Secure Blockchain-Based Smart Healthcare Assisting System
+2-s2.0-84994874807	Ideal extensions as logical programming models
+2-s2.0-85090896404	Bias in machine learning - what is it good for?
+2-s2.0-85099117608	Bottom-up unranked tree-to-graph transducers for translation into semantic graphs
+2-s2.0-85061861155	'Managing pieces of a personal puzzle'-Older people's experiences of self-management falls prevention exercise guided by a digital program or a booklet
+2-s2.0-85127020794	Developer Operations and Engineering Multi-agent Systems
+2-s2.0-85117030879	Modelling human mental-states in an action language following the theory of planned behavior
+2-s2.0-85060449775	Application, workload, and infrastructure models for virtualized content delivery networks deployed in edge computing environments
+2-s2.0-84857493176	Efficient reduction from block Hessenberg form to Hessenberg form using shared memory
+2-s2.0-85055513934	Approximating agreements in argumentation dialogues
+2-s2.0-84941254784	Performance-based service differentiation in clouds
+2-s2.0-84907096435	Efficient algorithms for subgraph listing
+2-s2.0-85113710327	AdCom: Adaptive combiner for streaming aggregations
+2-s2.0-85106421629	Towards Fundamental Models of Radicalization
+2-s2.0-85132891883	Application of Deep Learning for Energy Management in Smart Grid
+2-s2.0-84874079635	A smart home experience using egocentric interaction design principles
+2-s2.0-84988603556	Learning tree languages
+2-s2.0-85033498617	Robots in contexts: Human-robot interaction as physically and socially embedded
+2-s2.0-85096502286	Winfra: A web-based platform for semantic data retrieval and data analytics
+2-s2.0-85127455711	Online Product Advertisement Prediction and Explanation in Large-scale Social Networks
+2-s2.0-84884490950	Millstream systems and graph transformation for complex linguistic models (Extended abstract)
+2-s2.0-84865209853	New level-3 BLAS kernels for cholesky factorization
+2-s2.0-84894647177	Reasoning about human activities: An argumentative approach
+2-s2.0-84864231037	An adaptive hybrid elasticity controller for cloud infrastructures
+2-s2.0-84981294489	Classification of pairs of linear mappings between two vector spaces and between their quotient space and subspace
+2-s2.0-85086250827	Fuzzy Relational Mathematical Morphology: Erosion and Dilation
+2-s2.0-84861963138	Abstractions for scaling escience applications to distributed computing environments: A StratUm integration case study in molecular systems biology
+2-s2.0-85140878827	DELA: A Deep Ensemble Learning Approach for Cross-layer VSI-DDoS Detection on the Edge
+2-s2.0-85026646493	Human fat tissue: A microwave communication channel
+2-s2.0-84926059801	Contextual hyperedge replacement
+2-s2.0-85096615262	The Virtual Knowledge Graph System Ontop
+2-s2.0-85097648325	Multi-diseases Classification from Chest-X-ray: A Federated Deep Learning Approach
+2-s2.0-84883028935	Kitchen AS-A-PAL: Exploring Smart Objects as Containers, Surfaces and Actuators
+2-s2.0-85068555744	The metric dimension of ZnÃ—ZnÃ—Zn is âŒŠ3n/2âŒ‹
+2-s2.0-84978906139	Analyzing matching time behavior of backtracking regular expression matchers by using ambiguity of NFA
+2-s2.0-85111579284	Towards motivation-driven intelligent interfaces: Formal argumentation meets activity theory
+2-s2.0-84864040809	A logic-based environmental decision support system for the management of horizontal subsurface constructed wetlands
+2-s2.0-84942543893	Analysis and characterization of a video-on-demand service workload
+2-s2.0-85030148952	Complete many-valued lattices
+2-s2.0-85119693666	Assistant: Learning and robust decision support system for agile manufacturing environments
+2-s2.0-84962110214	Reducing Noisy-Neighbor Impact with a Fuzzy Affinity-Aware Scheduler
+2-s2.0-85077058937	Empathic agents: A hybrid normative/consequentialistic approach: Doctoral consortium
+2-s2.0-85100209752	Accelerating deep learning inference in constrained embedded devices using hardware loops and a dot product unit
+2-s2.0-85142424944	Robust level-3 BLAS Inverse Iteration from the Hessenberg Matrix
+2-s2.0-84908587591	How will your workload look like in 6 years? Analyzing Wikimedia's workload
+2-s2.0-85092057706	Can we build guidelines for trustworthy, ethical AI?
+2-s2.0-84896927269	Optimally packed chains of bulges in multishift QR algorithms
+2-s2.0-84855940996	Constraint fluids
+2-s2.0-85078144607	Implementing functional modularity for processing of general photogrammetric data with the damped bundle adjustment toolbox (DBAT)
+2-s2.0-84901276902	Algebra and geometry combined explains how the mind does math
+2-s2.0-84920093661	Hecatonchire: Towards multi-host virtual machines by server disaggregation
+2-s2.0-85107470343	Social Rules for Agent Systems
+2-s2.0-84929587512	Topology and shape optimization of plasmonic nano-antennas
+2-s2.0-85138848459	Smart sensing and actuators for people with hand motion impairment
+2-s2.0-84962045611	Event-Driven Application Brownout: Reconciling High Utilization and Low Tail Response Times
+2-s2.0-85077785900	The role of artificial intelligence in achieving the Sustainable Development Goals
+2-s2.0-85056329436	Parallel robust solution of triangular linear systems
+2-s2.0-85129116277	CSP for Parallelising Brzozowskiâ€™s DFA Construction Algorithm
+2-s2.0-85058044832	Continuous transportation as a material distribution topology optimization problem
+2-s2.0-84948710516	The generative power of delegation networks
+2-s2.0-85139065367	(Max,âŠ•)-transforms and genetic algorithms for fuzzy measure identification
+2-s2.0-84867349823	Threshold concepts and threshold skills in computing
+2-s2.0-85138111642	Event Classification with Imbalanced and Missing Data for an Air-Handling Unit
+2-s2.0-85126531395	Toward Delicate Anomaly Detection of Energy Consumption for Buildings: Enhance the Performance From Two Levels
+2-s2.0-84880384478	State constrained optimal control of a ball pitching robot
+2-s2.0-85104761753	Psychological distance: How to make climate change less abstract and closer to the self
+2-s2.0-85027250578	KPI-Agnostic Control for Fine-Grained Vertical Elasticity
+2-s2.0-85098882699	Preserving Personal Perspectives in Coaching Technology
+2-s2.0-85112166361	IEEE P7001: A Proposed Standard on Transparency
+2-s2.0-84884147821	Cuts in regular expressions
+2-s2.0-84977110683	Non-commutative quantales for many-valuedness in applications
+2-s2.0-85104537678	The relevance of causation in robotics: A review, categorization, and analysis
+2-s2.0-85011103421	How beneficial are intermediate layer data centers in mobile edge networks?
+2-s2.0-85130945054	Abstracting Ontology-Driven Conceptual Models: Objects, Aspects, Events, and Their Parts
+2-s2.0-84901071552	Sociotechnical Systems as Innovation Systems in the Medical and Health Domain
+2-s2.0-85065883141	Agent-based simulation of unmanned aerial vehicles in civilian applications: A systematic literature review and research directions
+2-s2.0-85117507575	Genetic Algorithms in Data Masking: Towards Privacy as a Service
+2-s2.0-84875029265	Near infrared optical projection tomography for assessments of Î²-cell mass distribution in diabetes research.
+2-s2.0-85138733580	Methodological Principles for Reproducible Performance Evaluation in Cloud Computing
+2-s2.0-85083964403	Introduction to StarNEigâ€”A task-based library for solving nonsymmetric eigenvalue problems
+2-s2.0-85117951859	Let Me Take Over: Variable Autonomy for Meaningful Human Control
+2-s2.0-84901687074	Cloudy with a chance of load spikes: Admission control with fuzzy risk assessments
+2-s2.0-84940994037	Topology Optimization of Planar Antennas for Wideband Near-Field Coupling
+2-s2.0-85026410524	An unsupervised approach to online noisy-neighbor detection in cloud data centers
+2-s2.0-85045057700	An evaluation of structured language modeling for automatic speech recognition
+2-s2.0-84889652319	Bundle adjustment with and without damping
+2-s2.0-85072814243	Flexible photogrammetric computations using modular bundle adjustment: The chain rule and the collinearity equations
+2-s2.0-84872460378	Invariance properties of the constant-complement view-update strategy
+2-s2.0-85130713237	Label Placement Challenges in City Wayfinding Map Productionâ€”Identification and Possible Solutions
+2-s2.0-85119698199	D-LBAH: Dynamic Load Balancing Algorithm for HEC-SDN systems
+2-s2.0-85077120793	Tangible communication of emotions with a digital companion for managing stress: An exploratory co-design study
+2-s2.0-84957557956	Priming as a Means to Reduce Ambiguity in Learning from Demonstration
+2-s2.0-84904459752	Estimation of tree stem attributes using terrestrial photogrammetry
+2-s2.0-85146644109	MicroSplit: Efficient Splitting of Microservices on Edge Clouds
+2-s2.0-85128225107	Handling temporality in human activity reasoning
+2-s2.0-85108458402	Agents in a privacy-preserving world
+2-s2.0-85054557327	A Survey on Modeling Energy Consumption of Cloud Applications: Deconstruction, State of the Art, and Trade-Off Debates
+2-s2.0-84994619191	Active and Healthy Ageing and Independent Living 2016
+2-s2.0-85086888593	Analysing the Combined Health, Social and Economic Impacts of the Corovanvirus Pandemic Using Agent-Based Social Simulation
+2-s2.0-85033772481	Power-performance tradeoffs in data center servers: DVFS, CPU pinning, horizontal, and vertical scaling
+2-s2.0-85064193099	Detection and classification of root and butt-rot (RBR) in stumps of Norway spruce using RGB images and machine learning
+2-s2.0-84987722701	HPC System lifetime story: Workload characterization and evolutionary analyses on nersc systems
+2-s2.0-85122074625	Critical study of the applicability of additional IAQ sensors in older buildings
+2-s2.0-85122308891	NIHRIO at SemEval-2018 Task 3: A Simple and Accurate Neural Network Model for Irony Detection in Twitter
+2-s2.0-85113855730	Out-of-Distribution Detection for Deep Neural Networks with Isolation Forest and Local Outlier Factor
+2-s2.0-85081055234	Heat transfer maximization in a three dimensional conductive differentially heated cavity by means of topology optimization
+2-s2.0-84898061820	Guard independence and constraint-preserving snapshot isolation
+2-s2.0-85088577399	Understandable Teams of Pepper Robots
+2-s2.0-85103303855	Fat-IntraBody Communication at 5.8 GHz: Verification of Dynamic Body Movement Effects Using Computer Simulation and Experiments
+2-s2.0-84969509181	A taxonomy of minimisation algorithms for deterministic tree automata
+2-s2.0-84857482089	Parallel solution of narrow banded diagonally dominant linear systems
+2-s2.0-85119351981	Younger and older adults perceptions on role, behavior, goal and recovery strategies for managing breakdown situations in human-robot dialogues
+2-s2.0-85116494395	Causal Interventions and Argumentation-Based Frameworks: Formalization of â€œWhat Ifâ€ Scenarios
+2-s2.0-84881424171	Towards user-authored agent dialogues for assessment in personalised ambient assisted living
+2-s2.0-84879780209	On the moral responsibility of military robots
+2-s2.0-84864033085	GJMF - A composable service-oriented grid job management framework
+2-s2.0-84978127454	Layout optimization of thin sound-hard material to improve the far-field directivity properties of an acoustic horn
+2-s2.0-85109804319	Towards an Architecture for Reliable Capacity Provisioning for Distributed Clouds
+2-s2.0-84863713318	Decentralized scalable fairshare scheduling
+2-s2.0-85063200026	Robots that make sense: Transparent intelligence through augmented reality
+2-s2.0-85066893934	Graph-based interactive data federation system for heterogeneous data retrieval and analytics
+2-s2.0-85137853452	Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds
+2-s2.0-85006970632	Dynamic application placement in the Mobile Cloud Network
+2-s2.0-85088564119	Intent Recognition from Speech and Plan Recognition
+2-s2.0-85078783496	Development of a sweet pepper harvesting robot
+2-s2.0-85140469467	Android Malware Detection Using BERT
+2-s2.0-85089025359	Task-based, GPU-accelerated and robust library for solving dense nonsymmetric eigenvalue problems
+2-s2.0-85125788005	Ensemble of Feature Selection Methods: A Hesitant Fuzzy Set Based Approach
+2-s2.0-85051069838	Rapid testing of IaaS resource management algorithms via cloud middleware simulation
+2-s2.0-85027935732	A combined frequency scaling and application elasticity approach for energy-efficient cloud computing
+2-s2.0-85111111534	Product Lifecycle Information Management with Digital Twin: A Case Study
+2-s2.0-84963949081	Estimation of tree stem attributes using terrestrial photogrammetry with a camera rig
+2-s2.0-85103847566	Automated IoT device identification based on full packet information using real-time network traffic
+2-s2.0-85072380854	Machine learning methods for reliable resource provisioning in edge-cloud computing: A survey
+2-s2.0-85129979581	Pervasive Autonomy: Humans-in-The-loop or Forget-About-Them? Panel Summary
+2-s2.0-85033442315	Digital technology in healthcare and elderly care
+2-s2.0-85026781377	Internet-based support for self-management strategies for people with COPD-protocol for a controlled pragmatic pilot trial of effectiveness and a process evaluation in primary healthcare
+2-s2.0-85007508412	ARIA 2016: Care pathways implementing emerging technologies for predictive medicine in rhinitis and asthma across the life cycle
+2-s2.0-84927738080	Possibilistic nested logic programs and strong equivalence
+2-s2.0-85141634063	Rank-Label Anonymization for the Privacy-Preserving Publication of a Hypergraph Structure
+2-s2.0-85140455972	Towards Pragmatic Explanations forÂ Domain Ontologies
+2-s2.0-85096013321	Measuring the strength of threats, rewards, and appeals in persuasive negotiation dialogues
+2-s2.0-85127452384	Bridging Perception, Memory, and Inference through Semantic Relations
+2-s2.0-85042937200	Collaborative quality enhancement in engineering education: an overview of operational models at a programme level
+2-s2.0-85030323748	Distributed Approach to the Holistic Resource Management of a Mobile Cloud Network
+2-s2.0-85121931928	The Role of Environments in Affording Deceptive Behaviour: Some Preliminary Insights from Stage Magic
+2-s2.0-84885957285	A service framework for energy-aware monitoring and VM management in Clouds
+2-s2.0-85128092171	Integrated care in prevention: Maturity and upscaling
+2-s2.0-85112264766	New oscillatory results for non-linear delay dynamic equations with super-linear neutral term
+2-s2.0-85091829037	CCS: A software framework to generate two-body potentials using Curvature Constrained Splines
+2-s2.0-85118781491	An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations
+2-s2.0-85129577533	Get out of the BAG! Silos in AI Ethics Education: Unsupervised Topic Modeling Analysis of Global AI Curricula
+2-s2.0-84978488643	Quantum leap pattern matching a new high performance quick search-style algorithm
+2-s2.0-85106445030	Drug Trafficking As Illegal Supply Chainâ€”A Social Simulation
+2-s2.0-85102183446	Elasticity Control for Latency-Intolerant Mobile Edge Applications
+2-s2.0-84942927929	Principles and performance characteristics of algorithms for live vm migration
+2-s2.0-85152892684	Topic Modeling by Clustering Language Model Embeddings: Human Validation on an Industry Dataset
+2-s2.0-85050910274	Autonomous adaptation of software agents in the support of human activities
+2-s2.0-85068720580	Supporting and challenging learners through pedagogical agents: Addressing ethical issues through designing for values
+2-s2.0-84946090030	An empirical test of the accuracy of an attack graph analysis tool
+2-s2.0-85021740717	Practical reasoning about complex activities
+2-s2.0-85143323268	Good AI for Good: How AI Strategies of the Nordic Countries Address the Sustainable Development Goals
+2-s2.0-85126526408	On the Effects of Data Protection on Multi-database Data-Driven Models
+2-s2.0-85136223573	Benchmarking the Linear Algebra Awareness of TensorFlow and PyTorch
+2-s2.0-84923951011	Autonomic resource allocation for cloud data centers: A Peer to Peer approach
+2-s2.0-85106441249	Are We Done Yet? or When is Our Model Perfect (Enough)?
+2-s2.0-85125783750	Dynamic Ensemble Selection Based on Hesitant Fuzzy Multiple Criteria Decision-Making
+2-s2.0-85074674305	PEAS: A performance evaluation framework for auto-scaling strategies in cloud applications
+2-s2.0-85095099107	A framework for collaborative and interactive agent-oriented developer operations
+2-s2.0-85141787535	Launching the VASCO Citizen Science Project
+2-s2.0-84955255268	Reducing complexity in service development and integration
+2-s2.0-85098564080	Copying Can Be Good: How Students View Imitation as a Tool in Learning to Program
+2-s2.0-85054761132	E-HPC: A library for elastic resource management in HPC environments
+2-s2.0-85021803539	Fully Nonlinear SP3 Approximation Based Fluorescence Optical Tomography
+2-s2.0-84919919226	A Direct Method for 3D Hand Pose Recovery
+2-s2.0-84945572211	Tight bounds for cut-operations on deterministic finite automata
+2-s2.0-85087977336	Design applicable 3D microfluidic functional units using 2D topology optimization with length scale constraints
+2-s2.0-85089109897	Impact of etcd deployment on Kubernetes, Istio, and application performance
+2-s2.0-84958536313	The Logic and ontology of assessment of conditions in older people
+2-s2.0-85099124542	Bottom-up unranked tree-to-graph transducers for translation into semantic graphs
+2-s2.0-84963705475	Connectivity reliability in uncertain networks with stability analysis
+2-s2.0-85043688337	Lexical-semantic resources: Yet powerful resources for automatic personality classification
+2-s2.0-85112725168	A 1D-CNN Based Deep Learning forÂ Detecting VSI-DDoS Attacks in IoT Applications
+2-s2.0-85021638453	The logic of information and processes in system-of-systems applications
+2-s2.0-85061060828	Language theoretic properties of regular DAG languages
+2-s2.0-84965080897	Range-based argumentation semantics as two-valued models
+2-s2.0-85029356223	Modelling the formation of virtual buying cooperatives with grammars of regulated rewriting
+2-s2.0-85046531617	Older adults Co-creating meaningful individualized social activities online for healthy ageing
+2-s2.0-85048914183	Experiments with metadata-derived initial values and linesearch bundle adjustment in architectural photogrammetry
+2-s2.0-84936772205	Coupled sylvester-type matrix equations and block diagonalization
+2-s2.0-85088523459	Understandable collaborating robot teams
+2-s2.0-84947072710	Predictive top-down parsing for hyperedge replacement grammars
+2-s2.0-85147769287	Privacy and Explainability: The Effects of Data Protection on Shapley Values
+2-s2.0-85056614593	An argumentation-based approach for identifying and dealing with incompatibilities among procedural goals
+2-s2.0-85010469399	Semi-automatic image labelling using depth information
+2-s2.0-85050921142	Smart augmented reality mHealth for medication adherence
+2-s2.0-85128073898	Information and process in health
+2-s2.0-84981307003	Sentiment analysis in a cross-media analysis framework
+2-s2.0-84872099790	A software framework for agricultural and forestry robots
+2-s2.0-85144466517	Computational Theory ofÂ Mind forÂ Human-Agent Coordination
+2-s2.0-85133201271	Verification and Monitoring for First-Order LTL with Persistence-Preserving Quantification over Finite and Infinite Traces
+2-s2.0-85140297118	Aggregation Operators in Fuzzy Relational Mathematical Morphology: Erosion and Dilation
+2-s2.0-85105807078	Towards Explainable and Trustworthy Autonomous Physical Systems
+2-s2.0-85129238468	Context-specific sampling method for contextual explanations
+2-s2.0-84944312023	Online spike detection in cloud workloads
+2-s2.0-85135759502	A Qualitative Evaluation of Service Mesh-based Traffic Management for Mobile Edge Cloud
+2-s2.0-85065043383	Data Exchange Standard for Industrial Internet of Things
+2-s2.0-85128006739	Integrated care and fall prevention in active and healthy aging
+2-s2.0-85125800137	Hesitant Fuzzy Decision Tree Approach for Highly Imbalanced Data Classification
+2-s2.0-85084010959	Robust task-parallel solution of the triangular sylvester equation
+2-s2.0-85050972967	Adaptive service performance control using cooperative fuzzy reinforcement learning in virtualized environments
+2-s2.0-85114892463	The SARS-CoV-2 spike protein is vulnerable to moderate electric fields
+2-s2.0-85113227922	Detection of VSI-DDoS Attacks on the Edge: A Sequential Modeling Approach
+2-s2.0-84960457423	Workshop preview of the 3rd workshop on parsing programming languages (Parsing@SLE 2015)
+2-s2.0-85113285630	Assessing Explainability in Reinforcement Learning
+2-s2.0-85113897255	On The (In)Effectiveness of Static Logic Bomb Detection for Android Apps
+2-s2.0-84900551454	Topology optimization of metallic antennas
+2-s2.0-85077679245	IoTEF: A Federated Edge-Cloud Architecture for Fault-Tolerant IoT Applications
+2-s2.0-84962868608	Control-based load-balancing techniques: Analysis and performance evaluation via a randomized optimization approach
+2-s2.0-85027276378	Calvin Constrained - A Framework for IoT Applications in Heterogeneous Environments
+2-s2.0-85077781547	Moral Values Related to Autonomous Weapon Systems: An Empirical Survey that Reveals Common Ground for the Ethical Debate
+2-s2.0-85096599428	Tell Me Why You Feel That Way: Processing Compositional Dependency for Tree-LSTM Aspect Sentiment Triplet Extraction (TASTE)
+2-s2.0-84884924111	A test-bed for text-to-speech-based pedestrian navigation systems
+2-s2.0-85062966533	Shape optimization of a compression driver phase plug
+2-s2.0-81955168127	The tractability frontier for NFA minimization
+2-s2.0-85135034678	Non-additive Measures, Set Distances andÂ Cost Functions onÂ Sets: A FrÃ©chet-Nikodym-Aronszajn Distance andÂ Cost Function
+2-s2.0-85074752477	Agent-based business process orchestration for IoT
+2-s2.0-85041502430	Two approaches to System-of-Systems from Lative Logic point of view
+2-s2.0-85057114642	Distributed cost-optimized placement for latency-critical applications in heterogeneous environments
+2-s2.0-85106399643	A Closer Look at Dutch Policy Development
+2-s2.0-85048368586	Modular bundle adjustment for photogrammetric computations
+2-s2.0-85030698546	Activity qualifiers using an argument-based construction
+2-s2.0-84958609865	Towards a mobile exercise application to prevent falls: A participatory design process
+2-s2.0-84963611927	An intelligent rollator for mobility impaired persons, especially stroke patients
+2-s2.0-84866929892	Input-driven stack automata
+2-s2.0-85052244078	Data packet transmission through fat tissue for wireless intra body networks
+2-s2.0-85073899754	SURE-H: A Secure IoT Enabled Smart Home System
+2-s2.0-85125802126	Fuzzy Partitioning of Continuous Attributes Through Crisp Discretization
+2-s2.0-84969862410	Telco clouds: Modelling and simulation
+2-s2.0-85086754646	MicroRCA: Root Cause Localization of Performance Issues in Microservices
+2-s2.0-85113892465	A tree-based protocol for enforcing quotas in clouds
+2-s2.0-85128687863	Dynamic scheduling of heterogeneous resources across mobile edge-cloud continuum using fruit fly-based simulated annealing optimization scheme
+2-s2.0-84865203730	Incomplete cyclic reduction of banded and strictly diagonally dominant linear systems
+2-s2.0-85052081320	An optimization model for management of empty containers in distribution network of a logistics company under uncertainty
+2-s2.0-85139446264	Let it RAIN for Social Good
+2-s2.0-85145873666	Verification of Generic, Relational Transition Systems
+2-s2.0-84931074712	Human-agent dialogues on health topics - an evaluation study
+2-s2.0-85106002930	Service mesh circuit breaker: From panic button to performance management tool
+2-s2.0-85069901345	Methodological Principles for Reproducible Performance Evaluation in Cloud Computing
+2-s2.0-84878115712	Context-dependent 'near' and 'far' in spatial databases via supervaluation
+2-s2.0-85121912185	E-Friend: A Logical-Based AI Agent System Chat-Bot for Emotional Well-Being and Mental Health
+2-s2.0-85140090648	Algorithm 1026: Concurrent Alternating Least Squares for Multiple Simultaneous Canonical Polyadic Decompositions
+2-s2.0-85128188225	Improved N-Best Extraction with an Evaluation on Language Data
+2-s2.0-84856306153	Human cognition as a foundation for the emerging egocentric interaction paradigm
+2-s2.0-84857483733	Cache blocking
+2-s2.0-85131956678	Hybrid Tree Automata andÂ theÂ Yield Theorem forÂ Constituent Tree Automata
+2-s2.0-84981340935	Apex lake: A framework for enabling smart orchestration
+2-s2.0-85101848051	Curvature Constrained Splines for DFTB Repulsive Potential Parametrization
+2-s2.0-85086047204	Using human computation in dead-zone based 2d pattern matching
+2-s2.0-85088860717	Accountability and Control Over Autonomous Weapon Systems: A Framework for Comprehensive Human Oversight
+2-s2.0-85091665871	Security in product lifecycle of IoT devices: A survey
+2-s2.0-85097420356	BIoTope: Building an IoT Open Innovation Ecosystem for Smart Cities
+2-s2.0-84883688456	Improving cloud infrastructure utilization through overbooking
+2-s2.0-85031280108	Distributing attention between environment and navigation system to increase spatial knowledge acquisition during assisted wayfinding
+2-s2.0-85091252122	Andness directedness for operators of the OWA and WOWA families
+2-s2.0-85079421835	Older adultsâ€™ perceptions of contexts surrounding their social participation in a digitalized societyâ€”an exploration in rural communities in Northern Sweden
+2-s2.0-85144690202	A Visual Data Storytelling Framework
+2-s2.0-84960333198	Properties of regular DAG languages
+2-s2.0-85113883639	An ontology-based coaching solution for increasing self-awareness of own functional status
+2-s2.0-85036631742	A multipurpose goal model for personalised digital coaching
+2-s2.0-85042860423	Microarray Missing Value Imputation: A Regularized Local Learning Method
+2-s2.0-85070058842	Designing and evaluating an intelligent augmented reality system for assisting older adultsâ€™ medication management
+2-s2.0-84964066482	On generating a random deterministic finite automaton as well as its failure equivalent
+2-s2.0-84937468311	Detecting Learning and Reasoning Patterns in a CDSS for Dementia Investigation
+2-s2.0-85043695414	Adaptive anomaly detection in performance metric streams
+2-s2.0-85019267649	Connecting Fog and Cloud Computing
+2-s2.0-85044450374	ScSF: A Scheduling Simulation Framework
+2-s2.0-85101274369	A DYNAMIC BATTERY STATE-OF-HEALTH FORECASTING MODEL for ELECTRIC TRUCKS: LI-ION BATTERIES CASE-STUDY
+2-s2.0-85118111656	Explanations of Non-monotonic Inference in Admissibility-Based Abstract Argumentation
+2-s2.0-85069216640	Contextual hyperedge replacement grammars for abstract meaning representations
+2-s2.0-85048427487	Semigroups in complete lattices: Quantales, modules and related topics
+2-s2.0-84989869244	Parallel algorithms for tensor completion in the CP format
+2-s2.0-85053255238	An optimal strategy for static black-peg mastermind with three pegs
+2-s2.0-84946150444	Interior layout topology optimization of a reactive muffler
+2-s2.0-85125166747	Uncovering latency anomalies in 5G RAN - A combination learner approach
+2-s2.0-84866719548	Modeling actions based on a situative space model for recognizing human activities
+2-s2.0-85061389625	A holistic optimization framework for forest machine trail network design accounting for multiple objectives and machines
+2-s2.0-85097055904	Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach Using Under-Sampling and Class Weighting
+2-s2.0-84902135935	Matrix factorization for evolution data
+2-s2.0-84894271676	Miniversal deformations of matrices under*congruence and reducing transformations
+2-s2.0-84870315336	Fixed-mesh curvature-parameterized shape optimization of an acoustic horn
+2-s2.0-85052218591	Characterization of the fat channel for intra-body communication at R-Band frequencies
+2-s2.0-84903519279	Cognitive Architecture of an Agent for Human-Agent Dialogues
+2-s2.0-85124118865	Changing Perspectives: Adaptable Interpretations ofÂ Norms forÂ Agents
+2-s2.0-85023175257	Uniform vs. nonuniform membership for mildly context-sensitive languages: A brief survey
+2-s2.0-84969523612	A comprehensive fracture prevention strategy in older adults: The European union geriatric medicine society (EUGMS) statement
+2-s2.0-85046268103	Reliability of the fat tissue channel for intra-body microwave communication
+2-s2.0-85118142754	The Burden of Persuasion in Abstract Argumentation
+2-s2.0-85085919055	Workload diffusion modeling for distributed applications in fog/edge computing environments
+2-s2.0-85083251411	Human-agent Explainability: An experimental case study on the filtering of explanations
+2-s2.0-85071513092	Multiscale design for additive manufactured structures with solid coating and periodic infill pattern
+2-s2.0-84960806556	Simultaneous recognition and reproduction of demonstrated behavior
+2-s2.0-84888040639	Opportunistic energy-aware rescheduling in desktop grid environments
+2-s2.0-85031296045	Ontology based service environment supports successful aging
+2-s2.0-85033498040	A study on motivational messages for supporting seniors to increase physical activity and social participation
+2-s2.0-85091366850	A socio-technical framework for digital contact tracing
+2-s2.0-84893782725	A fuzzy approach to cloud admission control for safe overbooking
+2-s2.0-85094833009	Agent-based modelling of values: The case of value sensitive design for refugee logistics
+2-s2.0-84867537201	Dealing with explicit preferences and uncertainty in answer set programming
+2-s2.0-84883268004	Remembering our origin: Gender differences in spatial memory are reflected in gender differences in hippocampal lateralization
+2-s2.0-85115620535	CN-waterfall: a deep convolutional neural network for multimodal physiological affect detection
+2-s2.0-85098887685	VoilÃ : Tail-Latency-Aware Fog Application Replicas Autoscaler
+2-s2.0-84874596861	A general approach to service deployment in cloud environments
+2-s2.0-85123861078	Curriculum Agility: Responsive Organization, Dynamic Content, and Flexible Education
+2-s2.0-84943186471	Estimating the position of the harvester head â€“ A key step towards the precision forestry of the future?
+2-s2.0-85128747154	Towards Efficient Context-Sensitive Deliberation
+2-s2.0-85059084019	Improving recurrent neural networks with predictive propagation for sequence labelling
+2-s2.0-85107354516	OmicsVolcano: Software for intuitive visualization and interactive exploration of high-throughput biological data
+2-s2.0-85062842762	Visual representation of DNA sequences for exon detection using non-parametric spectral estimation techniques
+2-s2.0-85115795760	Integrating comprehensive human oversight in drone deployment: A conceptual framework applied to the case of military surveillance drones
+2-s2.0-85102147360	The role and challenges of education for responsible ai
+2-s2.0-85088566112	Explainable Agents as Static Web Pages: UAV Simulation Example
+2-s2.0-84943313977	Algorithm 953: Parallel library software for the multishift qr algorithm with aggressive early deflation
+2-s2.0-84977526855	Activity qualifiers in an argumentation framework as instruments for agents when evaluating human activity
+2-s2.0-84893436449	Resource management architecture for fair scheduling of optional computations
+2-s2.0-84929726152	Control strategies for predictable brownouts in cloud computing
+2-s2.0-85022339632	Structure preserving stratification of skew-symmetric matrix polynomials
+2-s2.0-85097717738	Uniform parsing for hyperedge replacement grammars
+2-s2.0-85046539339	Applying the zone of proximal development when evaluating clinical decision support systems: A case study
+2-s2.0-85141818392	Informative Communication ofÂ Robot Plans
+2-s2.0-85140915762	Comparing User Perceptions of Anti-Stalkerware Apps with the Technical Reality
+2-s2.0-85110370540	Multiscale design of coated structures with periodic uniform infill for vibration suppression
+2-s2.0-85069469164	Hybrid resource management for HPC and data intensive workloads
+2-s2.0-85077038467	Incorporating social practices in BDI agent systems
+2-s2.0-84863379082	Virtual machine placement for predictable and time-constrained peak loads
+2-s2.0-85125761567	Distributed Feature Selection: A Hesitant Fuzzy Correlation Concept for High-Dimensional Microarray Datasets
+2-s2.0-85033471406	Human-agent dialogues and their purposes
+2-s2.0-85127924690	Î”-Choquet integral on time scales with applications
+2-s2.0-85068193369	Geometry of Matrix Polynomial Spaces
+2-s2.0-84875206154	Level-3 Cholesky factorization routines improve performance of many Cholesky algorithms
+2-s2.0-85107481071	Developersâ€™ Responses to App Review Feedback â€“ A Study of Communication Norms in App Development
+2-s2.0-85058808922	Non-parametric spectral estimation techniques for DNA sequence analysis and exon region prediction
+2-s2.0-84901654238	Cost-optimal cloud service placement under dynamic pricing schemes
+2-s2.0-85016150245	Topology Optimisation of Wideband Coaxial-to-Waveguide Transitions
+2-s2.0-85115886239	MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems
+2-s2.0-85032456949	Incentivizing self-capping to increase cloud utilization
+2-s2.0-84901262364	A square block format for symmetric band matrices
+2-s2.0-85044775461	On the tunability of a new Hessenberg reduction algorithm using parallel cache assignment
+2-s2.0-85052373583	Effect of thickness inhomogeneity in fat tissue on in-body microwave propagation
+2-s2.0-85148543827	Ontology-based Data Federation
+2-s2.0-85014503856	Parallel and heterogeneous m-Hessenberg-triangular-triangular reduction
+2-s2.0-85091874629	KBot: A Knowledge Graph Based ChatBot for Natural Language Understanding over Linked Data
+2-s2.0-85111690599	Older adults' experiences of behavior change support in a digital fall prevention exercise program: Qualitative study framed by the self-determination theory
+2-s2.0-84905826607	Graduating students' designs - Through a phenomenographic lens
+2-s2.0-85143124132	A blockchain-based trustworthy collaborative power trading scheme for 5G-enabled social internet of vehicles
+2-s2.0-85072633074	The future of geographic information displays from giscience, cartographic, and cognitive science perspectives
+2-s2.0-84977134591	The syntax of many-valued relations
+2-s2.0-85048376203	Open source and independent methods for bundle adjustment assessment in close-range UAV photogrammetry
+2-s2.0-85079829054	In-field grape cluster size assessment for vine yield estimation using a mobile robot and a consumer level RGB-D Camera
+2-s2.0-85127929187	Interactions Between EIP on AHA Reference Sites and Action Groups to Foster Digital Innovation of Health and Care in European Regions
+2-s2.0-85113311249	ciu.image: An R Package for Explaining Image Classification with Contextual Importance and Utility
+2-s2.0-85104290944	Shape optimization for the strong directional scattering of dielectric nanorods
+2-s2.0-85022188448	Expansion and equivalence relations on argumentation frameworks based on logic programs
+2-s2.0-85076456153	ETNLP: A visual-aided systematic approach to select pre-trained embeddings for a downstream task
+2-s2.0-85044751795	A task-based algorithm for reordering the eigenvalues of a matrix in real schur form
+2-s2.0-85026771770	Strategies for selecting best approach direction for a sweet-pepper harvesting robot
+2-s2.0-85109866300	Performance Diagnosis in Cloud Microservices Using Deep Learning
+2-s2.0-85084961927	A novel LSTM for multivariate time series with massive missingness
+2-s2.0-84880604130	The logical clarinet: Numerical optimization of the geometry of woodwind instruments
+2-s2.0-84867315905	Knowledge artifacts as tools to communicate and develop knowledge in collaborative user-driven design
+2-s2.0-84991736604	Autonomic resource management for optimized power and performance in multi-tenant clouds
+2-s2.0-84962129129	A Sensor-Actuator Model for Data Center Optimization
+2-s2.0-84928813142	Backward linearised tree pattern matching
+2-s2.0-85081661120	Perspectives of gestures for gestural-based interaction systems: Towards natural interaction
+2-s2.0-85117482466	A HPC Co-scheduler with Reinforcement Learning
+2-s2.0-84855396325	Image processing assisted algorithms for optical projection tomography
+2-s2.0-85145500489	Older adults as designers of behavior change strategies to increase physical activityâ€”Report of a participatory design process
+2-s2.0-84922986936	Beauty and the Beast: on the readability of object-oriented example programs
+2-s2.0-84974824043	Miniversal deformations of pairs of skew-symmetric matrices under congruence
+2-s2.0-85047410025	Tree pattern matching from regular tree expressions
+2-s2.0-84902344535	Creo: Reduced complexity service development
+2-s2.0-85044097576	Extending Well-Founded Semantics with Clark's Completion for Disjunctive Logic Programs
+2-s2.0-85068720589	Technology-facilitated societal consensus
+2-s2.0-85069231701	Extending predictive shift-reduce parsing to contextual hyperedge replacement grammars
+2-s2.0-85105569339	Well-posed variational formulations of Friedrichs-type systems
+2-s2.0-85135731161	Unsupervised root-cause identification of software bugs in 5G RAN
+2-s2.0-85073185314	Impact of Blood Vessels on Data Packet Transmission Through the Fat Channel
+2-s2.0-85089885588	A framework uniting ontology-based geodata integration and geovisual analytics
+2-s2.0-85142444851	Ontology-Based Data Federation
+2-s2.0-85105698913	A machine learning framework to improve effluent quality control in wastewater treatment plants
+2-s2.0-85091711277	Guiding principles for the use of knowledge bases and real-world data in clinical decision support systems: report by an international expert workshop at Karolinska Institutet
+2-s2.0-85114679871	Process mining with common sense
+2-s2.0-84874211346	Multi-core scalability measurements: Issues and solutions
+2-s2.0-85116381724	Inference of the Intentions of Unknown Agents in a Theory of Mind Setting
+2-s2.0-84951741671	Implementation and application of automata: 20th international conference, CIAA 2015 umeÃ¥, Sweden, august 18-21, 2015 proceedings
+2-s2.0-84880804587	Intelligence distribution for data processing in smart grids: A semantic approach
+2-s2.0-85142457915	Extraction of Object-Centric Event Logs through Virtual Knowledge Graphs
+2-s2.0-85064689193	Extracting primary objects and spatial relations from sentences
+2-s2.0-85025835832	Enabling workflow-aware scheduling on HPC systems
+2-s2.0-85139511718	Explaining change in quantitative bipolar argumentation1
+2-s2.0-85021702584	Personalised persuasive coaching to increase older adultsâ€™ physical and social activities: A motivational model
+2-s2.0-85098919275	Decision explanation: Applying contextual importance and contextual utility in affect detection
+2-s2.0-85138311336	FLOPs as a Discriminant for Dense Linear Algebra Algorithms
+2-s2.0-84866366896	Weak material approximation of holes with traction-free boundaries
+2-s2.0-85091921236	The challenge of cloud control
+2-s2.0-85120630514	Conceptual model for behaviour change progress instrument in design processes for behaviour change systems
+2-s2.0-85028711329	Disaster Recovery Layer for Distributed OpenStack Deployments
+2-s2.0-85054560924	A dialogue-based approach for dealing with uncertain and conflicting information in medical diagnosis
+2-s2.0-85138005293	Emotional Reasoning inÂ anÂ Action Language forÂ Emotion-Aware Planning
+2-s2.0-85131934265	Ordered Context-Free Grammars
+2-s2.0-85021678496	A pilot study on personalised coaching to increase older adultsâ€™ physical and social activities
+2-s2.0-84937459256	A survey on the categorical term construction with applications
+2-s2.0-85006212943	Contextualization: Dynamic configuration of virtual machines
+2-s2.0-84867871493	Contextual hyperedge replacement
+2-s2.0-84875429601	Skew-symmetric matrix pencils: Codimension counts and the solution of a pair of matrix equations
+2-s2.0-84907977362	Radial-basis-function level-set-based regularized Gauss-Newton-filter reconstruction scheme for dynamic shape tomography
+2-s2.0-85077537325	Aggregation-based minimization of finite state automata
+2-s2.0-85106168970	Multi-decoder Networks with Multi-denoising Inputs for Tumor Segmentation
+2-s2.0-84903982529	Aggressively truncated Taylor series method for accurate computation of exponentials of essentially nonnegative matrices
+2-s2.0-85051397631	Coercion and deception in persuasive technologies
+2-s2.0-84962563371	A Nitsche-type method for Helmholtz equation with an embedded acoustically permeable interface
+2-s2.0-85014972207	A review of road extraction from remote sensing images
+2-s2.0-85008704793	On the semantics of regular expression parsing in the wild
+2-s2.0-84962122635	Coordinating CPU and Memory Elasticity Controllers to Meet Service Response Time Constraints
+2-s2.0-85090146762	Automatic Generation of Efficient Linear Algebra Programs
+2-s2.0-84984910823	Integration integrity for multigranular data
+2-s2.0-85110811104	Natural language guided object retrieval in images
+2-s2.0-85084176609	A web-based platform for mining and ranking association rules
+2-s2.0-85100577809	Topology optimization of an acoustic diode?
+2-s2.0-85127083606	An Appraisal Transition System for Event-Driven Emotions in Agent-Based Player Experience Testing
+2-s2.0-85069797035	Assessment of Blood Vessel Effect on Fat-Intrabody Communication Using Numerical and Ex-Vivo Models at 2.45 GHz
+2-s2.0-85127564717	Simulation-Based Optimization of High-Performance Wheel Loading
+2-s2.0-85071020144	Slam the brakes: Perceptions of moral decisions in driving dilemmas
+2-s2.0-85064114467	A Cyber-Physical System for Semi-Autonomous Oil&Gas Drilling Operations
+2-s2.0-84955501870	On the similarities between control based and behavior based visual servoing
+2-s2.0-85086252683	Boosted ensemble learning for anomaly detection in 5G RAN
+2-s2.0-85124016925	A sociotechnical perspective for the future of AI: narratives, inequalities, and human control
+2-s2.0-85069811330	Empathic Autonomous Agents
+2-s2.0-85110048584	Application Optimisation: Workload Prediction and Autonomous Autoscaling of Distributed Cloud Applications
+2-s2.0-85062221218	Multi-scale Low-Rate DDoS Attack Detection Using the Generalized Total Variation Metric
+2-s2.0-85141439805	Service Mesh and eBPF-Powered Microservices: A Survey and Future Directions
+2-s2.0-84867628859	Aspects of plan operators in a tree automata framework
+2-s2.0-85125646943	Ethical implications of fairness interventions: what might be hidden behind engineering choices?
+2-s2.0-85119435388	Abstracting routes to their route-defining locations
+2-s2.0-85076471241	Explainable agents and robots: Results from a systematic literature review
+2-s2.0-84941202972	Towards faster response time models for vertical elasticity
+2-s2.0-85124717866	Spectral analysis of the finite element matrices approximating 2D linearly elastic structures and multigrid proposals
+2-s2.0-85019792916	On the parameterized complexity of linear context-free rewriting systems
+2-s2.0-84857115692	Miniversal deformations of matrices of bilinear forms
+2-s2.0-84908395259	An autonomic approach to risk-aware data center overbooking
+2-s2.0-85125751693	Metrics and Evaluations of Time Series Explanations: An Application in Affect Computing
+2-s2.0-85138703727	CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning
+2-s2.0-84911934656	Preventing resonances within approximated sound-hard material in acoustic design optimization
+2-s2.0-85136138862	The 6G Computing Continuum (6GCC): Meeting the 6G computing challenges
+2-s2.0-84951165580	Polynomial inference of universal automata from membership and equivalence queries
+2-s2.0-85053942493	An Identification of handling uncertainties within medical screening: A case study within screening for breast Cancer
+2-s2.0-84908155987	Fuzzy terms
+2-s2.0-85112257441	Software engineering methods for responsible artificial intelligence
+2-s2.0-85057363770	Describing Resource Allocation to Dynamically Formed Groups with Grammars
+2-s2.0-84946049065	Analysis of fictitious domain approximations of hard scatterers
+2-s2.0-85130291247	Andness Directedness for t-Norms and t-Conorms
+2-s2.0-84865235970	Cache blocking for linear algebra algorithms
+2-s2.0-85125243156	Air Handling Unit Explainability Using Contextual Importance and Utility
+2-s2.0-85075459507	Many-valued and many-sorted structure relations
+2-s2.0-85048401964	Acoustic boundary layers as boundary conditions
+2-s2.0-85010791243	A control theoretical approach to non-intrusive geo-replication for cloud services
+2-s2.0-84923950984	A synchronization mechanism for cloud accounting systems
+2-s2.0-85061347237	Long-term trajectories of human civilization
+2-s2.0-85126049290	Viewpoint: Ethical by Designer - How to Grow Ethical Designers of Artificial Intelligence
+2-s2.0-85071502111	Feasibility and acceptability of smart augmented reality assisting patients with medication pillbox self-management
+2-s2.0-85084692060	Building collective power in citizen-led initiatives for health accountability in Guatemala: The role of networks
+2-s2.0-85098863607	Social Models for Social Robotics
+2-s2.0-84866378317	Presence and general principles of brain function
+2-s2.0-84903385019	Fine-grained bulge-chasing kernels for strongly scalable parallel QR algorithms
+2-s2.0-84927702742	Developing ambient support technology for risk management in the mining industry
+2-s2.0-85126644608	Topology optimization of unsteady flows using the spectral element method
+2-s2.0-85144495935	Lessons learn on responsible AI implementation: the ASSISTANT use case
+2-s2.0-84894219330	Human sensing using computer vision for personalized smart spaces
+2-s2.0-85040128440	The logic of DSM
+2-s2.0-85138773801	Towards Integrally Private Clustering: Overlapping Clusters for High Privacy Guarantees
+2-s2.0-85061316455	SmallTail: Scaling cores and probabilistic cloning requests for web systems
+2-s2.0-85075992701	A Cloud-Hosted MapReduce Architecture for Syntactic Parsing
+2-s2.0-84857466192	Direct sparse factorization of blocked saddle point matrices
+2-s2.0-85142442822	Pointwise Circumscription in Description Logics
+2-s2.0-84962003877	A2L2: An application aware flexible HPC scheduling model for low-latency allocation
+2-s2.0-85104727094	Abstract argumentation and the rational man
+2-s2.0-84951845256	On the semantics of regular expression parsing in the wild
+2-s2.0-80053633042	Cloud brokering mechanisms for optimized placement of virtual machines across multiple providers
+2-s2.0-85137523185	Magic Shapes for SHACL Validation
+2-s2.0-85113329479	Visual Explanations for DNNs with Contextual Importance
+2-s2.0-84879762460	Towards goal based architecture design for learning high-level representation of behaviors from demonstration
+2-s2.0-84938363675	Performance anomaly detection and bottleneck identification
+2-s2.0-84899127988	The ubiquitous button
+2-s2.0-85074855006	Dealing with incompatibilities among procedural goals under uncertainty
+2-s2.0-85032355038	Predicting user competence from text
+2-s2.0-84919380860	Towards proactive robot behavior based on incremental language analysis
+2-s2.0-85125191396	Algorithm 1019: A Task-based Multi-shift QR/QZ Algorithm with Aggressive Early Deflation
+2-s2.0-84928788022	An efficient best-trees algorithm for weighted tree automata over the tropical semiring
+2-s2.0-85046161925	Power-aware cloud brownout: Response time and power consumption control
+2-s2.0-84862107202	Parallel and cache-efficient in-place matrix storage format conversion
+2-s2.0-85116809049	ParsBERT: Transformer-based Model for Persian Language Understanding
+2-s2.0-85111406996	The Myth of Complete AI-Fairness
+2-s2.0-85081090959	Information-theoretic ensemble learning for DDoS detection with adaptive boosting
+2-s2.0-85118925103	Evaluating an automata approach to query containment
+2-s2.0-84946688305	Cloud service differentiation in overbooked data centers
+2-s2.0-84867726859	Integrating kinect depth data with a stochastic object classification framework for forestry robots
+2-s2.0-84901260143	Algorithms for in-place matrix transposition
+2-s2.0-85101096683	Traveling drinksman - A mobile service robot for people in care-homes
+2-s2.0-84874448766	Runtime virtual machine recontextualization for clouds
+2-s2.0-85113871036	Using an agent-based approach for robust automated testing of computer games
+2-s2.0-85112466229	Rational spectral filters with optimal convergence rate
+2-s2.0-85044351004	On minimum length scale control in density based topology optimization
+2-s2.0-85009784086	Real-time detection of performance anomalies for cloud services
+2-s2.0-85061913069	MAS-Aided Approval for Bypassing Decentralized Processes: An Architecture
+2-s2.0-85020294378	Variational time stepping for nonsmooth analytical system dynamics
+2-s2.0-85078708614	A critical review of the use of holonic paradigm in traffic and transportation systems
+2-s2.0-84885234885	Validity of tree pattern queries with respect to schema information
+2-s2.0-85135821349	Privacy Issues in Smart Grid Data: From Energy Disaggregation to Disclosure Risk
+2-s2.0-84857580493	Independent update reflections on interdependent database views
+2-s2.0-85097144352	Verbal explanations by collaborating robot teams
+2-s2.0-85123618004	Accessing scientific data through knowledge graphs with Ontop
+2-s2.0-84950144069	An Aho-Corasick based assessment of algorithms generating failure deterministic finite automata
+2-s2.0-85088516585	Learning to communicate proactively in human-agent teaming
+2-s2.0-85137420307	Conceptually-grounded Mapping Patterns for Virtual Knowledge Graphs
+2-s2.0-84863924453	Efficient provisioning of bursty scientific workloads on the cloud using adaptive elasticity control
+2-s2.0-85090155995	How children and adolescents with juvenile idiopathic arthritis participate in their healthcare: health professionalsâ€™ views
+2-s2.0-85145881711	A Test for FLOPs as a Discriminant for Linear Algebra Algorithms
+2-s2.0-85134588078	How Culture Influences Individual Behavior During a Pandemic: A Social Simulation of the COVID-19 Crisis
+2-s2.0-85061338603	PerfGreen: Performance and energy aware resource provisioning for heterogeneous clouds
+2-s2.0-84983374541	Service Level and Performance Aware Dynamic Resource Allocation in Overbooked Data Centers
+2-s2.0-85007400525	Approximating Parikh images for generating deterministic graph parsers
+2-s2.0-85082749868	Cloud customers service selection scheme based on improved conventional cat swarm optimization
+2-s2.0-84858022516	FD covers and universal complements of simple projections
+2-s2.0-85069205503	Formalization and correctness of predictive shift-reduce parsers for graph grammars based on hyperedge replacement
+2-s2.0-85022042128	On the regularity and learnability of ordered DAG languages
+2-s2.0-85072851529	Explanations of black-box model predictions by contextual importance and utility
+2-s2.0-85128759638	A Socially-Aware, Privacy-Preserving, and Scalable Federated Learning Protocol for Distributed Online Social Networks
+2-s2.0-85048737102	Efficient enumeration of weighted tree languages over the tropical semiring
+2-s2.0-85112087682	Adaptive and Application-agnostic Caching in Service Meshes for Resilient Cloud Applications
+2-s2.0-85077029063	On enactability of agent interaction protocols: Towards a unified approach
+2-s2.0-85124339837	Optimizing Requests for Support in Context-Restricted Autonomy
+2-s2.0-85027287128	ACTiCLOUD: Enabling the Next Generation of Cloud Applications
+2-s2.0-85126200418	PSOwp: Particle Swarm Optimisation Without Panopticon toÂ Evaluate Private Social Choice
+2-s2.0-85109950844	Why bad coffee? Explaining BDI agent behaviour with valuings
+2-s2.0-84899760844	A bootstrap method for estimating bias and variance in statistical fisheries modelling frameworks using highly disparate datasets
+2-s2.0-85113245034	Quantales in Circuit Design
+2-s2.0-84875484420	From aristotle to Lotfi
+2-s2.0-85072862972	An imprecise probability approach for abstract argumentation based on credal sets
+2-s2.0-85140871736	A solution technique to cascading link failure prediction
+2-s2.0-85046786506	Distributed one-stage hessenberg-triangular reduction with wavefront scheduling
+2-s2.0-85041814278	Intra-body microwave communication through adipose tissue
+2-s2.0-85112190877	Interrogating the black box: Transparency through information-seeking dialogues
+2-s2.0-85142643312	Anxiety-Sensitive Planning: From Formal Foundations to Algorithms and Applications
+2-s2.0-85088553419	Decision Theory Meets Explainable AI
+2-s2.0-85096855805	Scalable IoT Platform for Heterogeneous Devices in Smart Environments
+2-s2.0-85142788243	Explainable Artificial Intelligence for Human Decision Support System in the Medical Domain
+2-s2.0-84977641480	A hybrid cloud controller for vertical memory elasticity: A control-theoretic approach
+2-s2.0-80052790418	OPTIMIS: A holistic approach to cloud service provisioning
+2-s2.0-85115994867	Context-based image explanations for deep neural networks
+2-s2.0-85136119401	Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities
+2-s2.0-85111382491	Exploring Contextual Importance and Utility in Explaining Affect Detection
+2-s2.0-85090919570	Uncertainty of value and structure
+2-s2.0-85039951146	Reliable capacity provisioning for distributed cloud/edge/fog computing applications
+2-s2.0-85025122681	Predictive shift-reduce parsing for hyperedge replacement grammars
+2-s2.0-84930869476	Rigid multibody simulation of a helix-like structure: the dynamics of bacterial adhesion pili
+2-s2.0-85090178167	Investigating Wayfinding Under Inconsistent Information
+2-s2.0-85130094894	Modular Graph Transformer Networks for Multi-Label Image Classification
+2-s2.0-84872504372	Collaborative development of knowledge-based support systems: A case study
+2-s2.0-85128651087	An Empirical Study of Service Mesh Traffic Management Policies for Microservices
+2-s2.0-85088744761	Incorporating social practices in BDI agentÂ systems
+2-s2.0-85083286249	An OAuth-based Authentication Mechanism for Open Messaging Interface Standard
+2-s2.0-85084115690	Give more data, awareness and control to individual citizens, and they will help COVID-19 containment
+2-s2.0-85091103220	EFFICIENT COMPUTATION of POSTERIOR COVARIANCE in BUNDLE ADJUSTMENT in DBAT for PROJECTS with LARGE NUMBER of OBJECT POINTS
+2-s2.0-84874320096	Management of distributed resource allocations in multi-cluster environments
+2-s2.0-85088207466	Graph Parsing as Graph Transformation: Correctness of Predictive Top-Down Parsers
+2-s2.0-84874203664	Approximate incomplete cyclic reduction for systems which are tridiagonal and strictly diagonally dominant by rows
+2-s2.0-85088752175	On enactability of agent interaction protocols: Towards a unified approach
+2-s2.0-85017207880	My name is legion: Estimating author counts based on stylistic diversity
+2-s2.0-85088754420	JS-son - A lean, extensible JavaScript agent programming library
+2-s2.0-85140249535	Measure Identification for the Choquet Integral: A Python Module
+2-s2.0-84857497069	On aggressive early deflation in parallel variants of the QR algorithm
+2-s2.0-85114692913	An score index for hesitant fuzzy sets based on the Choquet integral
+2-s2.0-85092091090	Explaining Recurrent Machine Learning Models: Integral Privacy Revisited
+2-s2.0-85029546242	Generic skew-symmetric matrix polynomials with fixed rank and fixed odd grade
+2-s2.0-85112711110	Realizing ontology-based reusable interfaces for data access via virtual knowledge graphs
+2-s2.0-84883463552	A uniformly well-conditioned, unfitted Nitsche method for interface problems
+2-s2.0-85053868291	Tree-to-Graph Transductions with Scope
+2-s2.0-84994065778	Brownout: Building more robust cloud applications
+2-s2.0-85055072550	Mapping free energy pathways for ATP Hydrolysis in the E. Coli ABC transporter HlyB by the string method
+2-s2.0-85136190866	When and How to Retrain Machine Learning-based Cloud Management Systems
+2-s2.0-85091440201	Mapping patterns for virtual knowledge graphs (A report on ongoing research)
+2-s2.0-85062085632	The output size problem for string-to-tree transducers
+2-s2.0-84985986840	Logical representation of maintenance procedures for verification and analysis
+2-s2.0-85110916411	Probing Multimodal Embeddings for Linguistic Properties: the Visual-Semantic Case
+2-s2.0-84867367026	A scalable accounting solution for prepaid services in cloud systems
+2-s2.0-85072835899	An empirical review of calibration techniques for the pepper humanoid robotâ€™s rgb and depth camera
+2-s2.0-85118736471	A hybrid greedy randomized heuristic for designing uncertain transport network layout
+2-s2.0-85070194559	Automating time series analysis to predict/forecast rainfall in AGUELMAM SIDI ALI watershed in Morocco
+2-s2.0-85091053992	Rethinking palliative care in a public health context: addressing the needs of persons with non-communicable chronic diseases
+2-s2.0-85101109481	A scalable and low latency probe-based scheduler for data analytics frameworks
+2-s2.0-84875663882	MAT learning of universal automata
+2-s2.0-85107492756	Improving Confidence in the Estimation of Values and Norms
+2-s2.0-85074237974	Fusion of gesture and speech for increased accuracy in human robot interaction
+2-s2.0-85141845765	Expecting, understanding, relating, and interacting-older, middle-aged and younger adultsâ€™ perspectives on breakdown situations in humanâ€“robot dialogues
+2-s2.0-85091768695	A fuzzy inference system for a visually grounded robot state of mind
+2-s2.0-85156162447	Argumentation-Based Adversarial Regression with Multiple Learners
+2-s2.0-85083023830	Multilayer Topology Optimization of Wideband SIW-to-Waveguide Transitions
+2-s2.0-85141069361	SoBigDemicSys: A Social Media based Monitoring System for Emerging Pandemics with Big Data
+2-s2.0-85018725453	A Model for Multigranular Data and Its Integrity
+2-s2.0-85108139861	A semantic and knowledge-based approach for handover management
+2-s2.0-85061405414	EuGMS Task and Finish group on Fall-Risk-Increasing Drugs (FRIDs): Position on Knowledge Dissemination, Management, and Future Research
+2-s2.0-85125785948	A Hybrid Filter-Based Feature Selection Method via Hesitant Fuzzy and Rough Sets Concepts
+2-s2.0-85103947321	On the well-posedness of Galbrun's equation
+2-s2.0-85139961938	Contextualising Goal Setting for Behaviour Change - from Baby Steps to Value Directions
+2-s2.0-85123433852	Auction-based Federated Learning using Software-defined Networking for resource efficiency
+2-s2.0-85093846904	End-to-End Analysis for Text Detection and Recognition in Natural Scene Images
+2-s2.0-85033708474	Topology optimization of compact wideband coaxial-to-waveguide transitions with minimum-size control
+2-s2.0-85007029651	Large-scale three-dimensional acoustic horn optimization
+2-s2.0-85062505209	Automatic analysis of positional plausibility for points of interest in OpenStreetMap using coexistence patterns
+2-s2.0-85013436481	Minimization of finite state automata through partition aggregation
+2-s2.0-84926030391	A framework for problem standardization and algorithm comparison in multibody system
+2-s2.0-85100440749	Team classification with tactical analysis using fuzzy inference in robocup soccer
+2-s2.0-85117142190	JaCaMo Builders: Team Description forÂ theÂ Multi-agent Programming ContestÂ 2020/21
+2-s2.0-85104516480	Multivariate Time Series Synthesis Using Generative Adversarial Networks
+2-s2.0-85125779007	Feature Selection Based on Regularization of Sparsity Based Regression Models by Hesitant Fuzzy Correlation
+2-s2.0-84901610133	A multi-agent system for nested inquiry dialogues
+2-s2.0-85021643714	COVER: Covering the semantically tractable questions
+2-s2.0-85133707077	How the waveguide acoustic black hole works: A study of possible damping mechanisms
+2-s2.0-85140800465	Optimized and Adaptive Federated Learning for Straggler-Resilient Device Selection
+2-s2.0-85114444874	SMT-Based Safety Verification of Data-Aware Processes under Ontologies (Preliminary Results)
+2-s2.0-85090096914	Contestable Black Boxes
+2-s2.0-85089339059	A Research Agenda for Hybrid Intelligence: Augmenting Human Intellect with Collaborative, Adaptive, Responsible, and Explainable Artificial Intelligence
+2-s2.0-85063438159	Implementing argumentation-enabled empathic agents
+2-s2.0-84926428941	Compression of finite-state automata through failure transitions
+2-s2.0-85069517837	Z-Automata for Compact and Direct Representation of Unranked Tree Languages
+2-s2.0-85078699959	Explaining Machine Learning-Based Classifications of In-Vivo Gastral Images
+2-s2.0-85085564840	DAG automata for meaning representation
+2-s2.0-85133018925	Theories of "Gender" in NLP Bias Research
+2-s2.0-85061325730	ALPACA: Application performance aware server power capping
+2-s2.0-85142938105	An online agent-based search approach in automated computer game testing with model construction
+2-s2.0-85027842857	OptiBook: Optimal resource booking for energy-efficient datacenters
+2-s2.0-84856120882	Adding fuzziness to terms and powerobjects using a monadic approach
+2-s2.0-85083956421	Parallel robust computation of generalized eigenvectors of matrix pencils
+2-s2.0-84938932324	Improving cloud service resilience using brownout-aware load-balancing
+2-s2.0-85124658722	Incorporating Social Practices in Dialogue Systems
+2-s2.0-85138779434	Modified Probabilistic Intuitionistic Fuzzy c-Means Clustering Algorithm: MPIFCM
+2-s2.0-84949623277	On quasi-arithmetic mean based filters and their fast evaluation for large-scale topology optimization
+2-s2.0-84894726366	Agent-based reasoning in medical planning and diagnosis combining multiple strategies
+2-s2.0-85042195254	On solving separable block tridiagonal linear systems using a GPU implementation of radix-4 PSCR method
+2-s2.0-84871585826	Addressing QoS in grids through a fairshare meta-scheduling in-advance architecture
+2-s2.0-85144477508	Embracing AWKWARD! Real-Time Adjustment of Reactive Plans Using Social Norms
+2-s2.0-85029308799	Generic complete eigenstructures for sets of matrix polynomials with bounded rank and degree
+2-s2.0-85075126183	On multi-resident activity recognition in ambient smart-homes
+2-s2.0-84955514967	Context-free tree grammars are as powerful as context-free jungle grammars
+2-s2.0-85020177861	Which cloud auto-scaler should i use for my application? Benchmarking auto-scaling algorithms: [Poster paper]
+2-s2.0-84892917921	From volunteer to trustable computing: Providing QoS-aware scheduling mechanisms for multi-grid computing environments
+2-s2.0-85099546748	MicroRAS: Automatic recovery in the absence of historical failure data for microservice systems
+2-s2.0-85131839082	Expertise Detection in Crowdsourcing Forums Using the Composition of Latent Topics and Joint Syntacticâ€“Semantic Cues
+2-s2.0-84880248356	Possibilistic nested logic programs
+2-s2.0-84887524988	Enhanced algorithms for estimating tree trunk diameter using 2D laser scanner
+2-s2.0-84894289561	Examining the smooth and nonsmooth discrete element approaches to granular matter
+2-s2.0-85137787707	Multimodal Review Generation with Privacy and Fairness Awareness
+2-s2.0-85053787782	Topology optimization of heat sinks in a square differentially heated cavity
+2-s2.0-84968627055	Accelerating sparse arithmetic in the context of newtonâ€™s method for small molecules with bond constraints
+2-s2.0-85099559901	Decentralized kubernetes federation control plane
+2-s2.0-85101023547	Trustworthy AI
+2-s2.0-85096584365	Assessing users' reputation from syntactic and semantic information in community question answering
+2-s2.0-84949176807	The explicit spike algorithm: Iterative solution of the reduced system
+2-s2.0-85052016714	An auto-tuning framework for a NUMA-aware hessenberg reduction algorithm
+2-s2.0-84905862373	Analysis and design of acoustic transition sections for impedance matching and mode conversion
+2-s2.0-85140488434	The Mirror Agent Model: A Bayesian Architecture forÂ Interpretable Agent Behavior
+2-s2.0-85022346852	On the degree of nondeterminism of tree adjoining languages and head grammar languages
+2-s2.0-85033499439	Instrument-oriented approach to detecting and representing human activity for supporting executive functions and learning
+2-s2.0-85058612316	Logic-based medicine versus evidence-based medicine for modeling qualified-self health kits
+2-s2.0-85049648699	On interaction quality in human-robot interaction
+2-s2.0-85107851411	Rule-Based Top-Down Parsing for Acyclic Contextual Hyperedge Replacement Grammars
+2-s2.0-85070945943	Governance by glass-box: Implementing transparent moral bounds for AI behaviour
+2-s2.0-85142189161	Abstracting Minds: Computational Theory of Mind for Human-Agent Collaboration
+2-s2.0-84863639731	Reducing complexity in management of escience computations
+2-s2.0-84898218159	Business models and billing challenges
+2-s2.0-84945548050	MICO-Media in Context
+2-s2.0-85118966850	The Emergence of Interactivity Fields and What it Means for HCI Research
+2-s2.0-85052487990	Towards a real-time mitigation of high temperature while drilling using a multi-agent system
+2-s2.0-85053342911	Chameleon: A Hybrid, Proactive Auto-Scaling Mechanism on a Level-Playing Field
+2-s2.0-85087315287	Topology optimization of compliant mechanisms considering strain variance
+2-s2.0-85137523893	DFTMicroagg: a dual-level anonymization algorithm for smart grid data
+2-s2.0-84978924825	Human detection based on infrared images in forestry environments
+2-s2.0-84918781079	Integration and evaluation of decentralized fairshare prioritization (Aequus)
+2-s2.0-85031296475	Identifying Landmark Candidates Beyond Toy Examples: A Critical Discussion and Some Way Forward
+2-s2.0-85101369872	Aplib: Tactical Agents for Testing Computer Games
+2-s2.0-85051032541	Virtualization techniques compared: Performance, resource, and power usage overheads in clouds
+2-s2.0-85113285682	Comparison of Contextual Importance and Utility with LIME and Shapley Values
+2-s2.0-85124790415	Causal Inference Techniques for Microservice Performance Diagnosis: Evaluation and Guiding Recommendations
+2-s2.0-85086546237	Older adults' preferences for, adherence to and experiences of two self-management falls prevention home exercise programmes: A comparison between a digital programme and a paper booklet
+2-s2.0-85116937615	Towards the next generation of the LinkedGeoData project using virtual knowledge graphs
+2-s2.0-84898636919	Graph transformation for incremental natural language analysis
+2-s2.0-84919679876	Resource state monitoring of service transactions in cloud systems
+2-s2.0-84919935890	Change of the congruence canonical form of 2-by-2 and 3-by-3 matrices under perturbations and bundles of matrices under congruence
+2-s2.0-84880537960	Improving signal detection in emission optical projection tomography via single source multiexposure image fusion
+2-s2.0-84879881922	Stratification of full rank polynomial matrices
+2-s2.0-85123869377	ASSESSING CURRICULUM AGILITY IN A CDIO ENGINEERING EDUCATION
+2-s2.0-85068625309	Integrating multi-agent simulations into enterprise application landscapes
+2-s2.0-85091463722	Counting query answers over a DL-Lite knowledge base
+2-s2.0-85074362416	On using a zero lower bound on the physical density in material distribution topology optimization
+2-s2.0-84979518261	Measuring cloud workload burstiness
+2-s2.0-85115073373	Aggregation Functions in Decision Engineering: Ten Necessary Properties and Parameter-Directedness
+2-s2.0-85072853930	Between the megalopolis and the deep blue sky: Challenges of transport with uavs in future smart cities
+2-s2.0-85119178919	Cformer: Semi-Supervised Text Clustering Based on Pseudo Labeling
+2-s2.0-85030211160	The cookie recipe: Untangling the use of cookies in the wild
+2-s2.0-84958551299	Process drama based information management for assessment and classification in learning
+2-s2.0-85027575276	Modeling and Placement of Cloud Services with Internal Structure
+2-s2.0-85162848187	Changing the Contrast of Magnetic Resonance Imaging Signals using Deep Learning
+2-s2.0-85030166182	Non-commutativity and many-valuedness: The topological representation of the spectrum of Câˆ—-algebras
+2-s2.0-85038215439	Entity markup for knowledge base population
+2-s2.0-84872619676	Computational estimation of fluid mechanical benefits from a fluid deflector at the distal end of artificial vascular grafts
+2-s2.0-85072850647	Explaining sympathetic actions of rational agents
+2-s2.0-84934325461	Applying a priming mechanism for intention recognition in shared control
+2-s2.0-84937828376	The CACTOS vision of context-aware cloud topology optimization and simulation
+2-s2.0-85146197180	Towards We-intentional Human-Robot Interaction using Theory of Mind and Hierarchical Task Network
+2-s2.0-85078454685	Concordia: A musical XR instrument for playing the solar system
+2-s2.0-85048367823	Improving underwater accuracy by empirical weighting of image observations
+2-s2.0-85115086790	Score Indices for Hesitant Fuzzy Sets: Generalized Fuzzy Integrals
+2-s2.0-84976359041	Investigations of thermal parameters addressed to a building simulation model
+2-s2.0-85009874324	Evaluation of strategies for pedestrian guidance using commodity smartphones
+2-s2.0-85122295338	A Data-Adaptive Loss Function for Incomplete Data and Incremental Learning in Semantic Image Segmentation
+2-s2.0-85098947980	A computationally efficient hybrid 2Dâ€“3D subwoofer model
+2-s2.0-85081091509	Exploring numerical calculations with CalcNet
+2-s2.0-84994275313	The Meaning of Interactivityâ€”Some Proposals for Definitions and Measures
+2-s2.0-85060997517	Efficient resource management for data centers: The ACTiCLOUD approach
+2-s2.0-85124654159	A k-Anonymised Federated Learning Framework with Decision Trees
+2-s2.0-85016174936	Finding the N best vertices in an infinite weighted hypergraph
+2-s2.0-85084159994	FluidCloud: An open framework for relocation of cloud services
+2-s2.0-85064437701	Scalable eigenvector computation for the non-symmetric eigenvalue problem
+2-s2.0-85062494937	Microsoft hololens -A mhealth solution for medication adherence
+2-s2.0-84966632766	Computer-supported assessment for tailoring assistive technology
+2-s2.0-85073954319	Extremal Union-Closed Set Families
+2-s2.0-85048440115	Fundamentals of quantales
+2-s2.0-85091588757	Towards diarg: An argumentation-based dialogue reasoning engine
+2-s2.0-85017553149	Generalization of Roth's solvability criteria to systems of matrix equations
+2-s2.0-85062482966	Design principles and action reflection for agent-based assistive technology
+2-s2.0-85072870728	A historical perspective on cognitive science and its influence on XAI research
+2-s2.0-84867698453	A model for simulation of application and resource behavior in heterogeneous distributed computing environments
+2-s2.0-85086180702	SDN-Enabled IoT Anomaly Detection Using Ensemble Learning
+2-s2.0-85051127322	A comparison of two N-best extraction methods for weighted tree automata
+2-s2.0-85138833717	Designing Distributed Chi-Fuzzy Rule based Classification System
+2-s2.0-85114803024	DeL-IoT: A deep ensemble learning approach to uncover anomalies in IoT
+2-s2.0-84883243278	Monadic social choice
+2-s2.0-85116392921	Typologies of Persuasive Strategies and Content: A Formalization Using Argumentation
+2-s2.0-85092432176	Estimation of acoustic absorption in porous materials based on visco-thermal boundary layers modeled as boundary conditions
+2-s2.0-84992365826	Class-memory automata revisited
+2-s2.0-85100949904	The VASCO project: 100 red transients and their follow up
+2-s2.0-85110068974	Comparing seven methods for state-of-health time series prediction for the lithium-ion battery packs of forklifts
+2-s2.0-85111468951	WoZ4U: An Open-Source Wizard-of-Oz Interface for Easy, Efficient and Robust HRI Experiments
+2-s2.0-85061281230	Rough objects in monoidal closed categories
+2-s2.0-85138413411	Dispute Trees as Explanations in Quantitative (Bipolar) Argumentation
+2-s2.0-85116445896	The Degrees of Monotony-Dilemma in Abstract Argumentation
+2-s2.0-85121970164	MC-OCR Challenge: Mobile-Captured Image Document Recognition for Vietnamese Receipts
+2-s2.0-84940101451	Algorithms for Hessenberg-triangular reduction of fiedler linearization of matrix polynomials
+2-s2.0-85073953637	Against All Odds: Multicriteria Decision Making with Hazard Prediction Maps Depicting Uncertainty
+2-s2.0-85117800047	Ensuring reference independence and cautious monotony in abstract argumentation
+2-s2.0-85125799837	Comparing Different Stopping Criteria for Fuzzy Decision Tree Induction Through IDFID3
+2-s2.0-85077823887	Mapping current curricular changes in European engineering education
+2-s2.0-84921434684	Applying ant colony optimization algorithms for high-level behavior learning and reproduction from demonstrations
+2-s2.0-85010461637	A Self-Adaptive Performance-Aware Capacity Controller in Overbooked Datacenters
+2-s2.0-85103842753	Variational autoencoding dialogue sub-structures using a novel hierarchical annotation schema
+2-s2.0-84961942918	High performance fault-Tolerance for clouds
+2-s2.0-85138262428	The Linear Algebra Mapping Problem. Current State of Linear Algebra Languages and Libraries
+2-s2.0-85084422321	On modification of Boyer-Moore-horspool's algorithm for tree pattern matching in linearised trees
+2-s2.0-85135376951	From Spoken Thoughts to Automated Driving Commentary: Predicting and Explaining Intelligent Vehicles' Actions
+2-s2.0-85083992499	Spreading the Heat: Multi-cloud Controller for Failover and Cross-Site Offloading
+2-s2.0-84937903421	Divide the task, multiply the outcome: Cooperative VM consolidation
+2-s2.0-84888998883	ALI: An assisted living system for persons with mild cognitive impairment
+2-s2.0-85085542420	Single-rooted DAGs in regular DAG languages: Parikh image and path languages
+2-s2.0-84862136751	Learning high-level behaviors from demonstration through semantic networks
+2-s2.0-85052582191	BrownoutCC: Cascaded Control for Bounding the Response Times of Cloud Applications
+2-s2.0-85111886138	Systematic evaluation of probabilistic K-anonymity for privacy preserving micro-data publishing and analysis
+2-s2.0-85028528661	Location-aware load prediction in Edge Data Centers
+2-s2.0-85022337450	Canonical structure transitions of system pencils
+2-s2.0-84945533575	Decentralized cloud datacenter reconsolidation through emergent and topology-aware behavior
+2-s2.0-84931846547	Control-theoretical load-balancing for cloud applications with brownout
+2-s2.0-85084824399	Tailoring to support digital technology-mediated occupational engagement for older adultsâ€“a multiple case study
+2-s2.0-85060578287	The algebra, logic and topology of system-of-systems
+2-s2.0-85070881623	Copying can be good: How instructors use imitation in teaching programming
+2-s2.0-84937832849	Semantic-based construction of arguments: An answer set programming approach
+2-s2.0-85097228803	Bayesian non-linear regression with spatial priors for noise reduction and error estimation in quantitative MRI with an application in T1 estimation
+2-s2.0-85125814203	Preliminaries
+2-s2.0-85088536738	Ethical concerns and opportunities in binding intelligent systems and blockchain technology
+2-s2.0-84878329540	Shuffled languages-representation and recognition
+2-s2.0-84979211118	External verification of the bundle adjustment in photogrammetric software using the damped bundle adjustment toolbox
+2-s2.0-84942779027	Deliberative argumentation for service provision in smart environments
+2-s2.0-85136663219	Resource-Efficient Federated Learning With Non-IID Data: An Auction Theoretic Approach
+2-s2.0-84979262236	Camera calibration using the damped bundle adjustment toolbox
+2-s2.0-85079171959	Simulating, off-chain and on-chain: Agent-Based simulations in cross-organizational business processes
+2-s2.0-85079069674	Power shepherd: Application performance aware power shifting
+2-s2.0-84860727609	Application of optimized higher order sliding mode control on MEMS optical switch
+2-s2.0-84991355165	Building bridges for innovation in ageing: Synergies between action groups of the EIP on AHA
+2-s2.0-85073708811	Approximating agreements in formal argumentation dialogues
+2-s2.0-84938931985	Analyzing catastrophic backtracking behavior in practical regular expression matching
+2-s2.0-85048427110	Foundations
+2-s2.0-84982099481	Nonlinear filters in topology optimization: existence of solutions and efficient implementation for minimum compliance problems
+2-s2.0-85141703676	Repairing SHACL Constraint Violations Using Answer Set Programming
+2-s2.0-85128906913	Accelerating Jackknife Resampling for the Canonical Polyadic Decomposition
+2-s2.0-84964354224	Continuous datacenter consolidation
+2-s2.0-84938251807	Faceless Interaction - A Conceptual Examination of the Notion of Interface: Past, Present, and Future
+2-s2.0-85085515174	Modeling and simulation of qos-aware power budgeting in cloud data centers
+2-s2.0-85112266753	Toward consistent agreement approximation in abstract argumentation and beyond
+2-s2.0-84894171718	Development of a search and rescue field robotic assistant
+2-s2.0-84922952703	Priority operators for fairshare scheduling
+2-s2.0-84976589910	RehAtt â€“ Scanning training for neglect enhanced by multi-sensory stimulation in virtual reality
+2-s2.0-85144487512	Domain Models and Data Modeling as Drivers for Data Management: The ASSISTANT Data Fabric Approach
+2-s2.0-85073231355	Quality-Elasticity: Improved Resource Utilization, Throughput, and Response Times Via Adjusting Output Quality to Current Operating Conditions
+2-s2.0-84875614113	On optimum left-to-right strategies for active context-free games
+2-s2.0-85074389475	Compact differential-fed planar filtering antennas
+2-s2.0-85018840920	A Method for Co-Designing Theory-Based Behaviour Change Systems for Health Promotion
+2-s2.0-85111203330	Dynamic Connection between Enzymatic Catalysis and Collective Protein Motions
+2-s2.0-85078035794	Improving Robot Transparency: An Investigation With Mobile Augmented Reality
+2-s2.0-84901462600	Patch and ground plane design of microstrip antennas by material distribution topology optimization
+2-s2.0-85097073478	Agents with Dynamic Social Norms
+2-s2.0-85106902322	Privacy-Preserving Visual Content Tagging using Graph Transformer Networks
+2-s2.0-85091583930	Agent-based Testing of Extended Reality Systems
+2-s2.0-84975709173	A cloud scheduler assisted by a fuzzy affinity-aware engine
+2-s2.0-84939157458	A probabilistic non-monotonic activity qualifier
+2-s2.0-85135030138	Acyclic Contextual Hyperedge Replacement: Decidability ofÂ Acyclicity andÂ Generative Power
+2-s2.0-85048315473	Hybrid adaptive checkpointing for virtual machine fault tolerance
+2-s2.0-85100357558	Give more data, awareness and control to individual citizens, and they will help COVID-19 containment
+2-s2.0-84893502191	Complete extensions as clark's completion semantics
+2-s2.0-85097236464	On spurious solutions encountered in Helmholtz scattering resonance computations in Rd with applications to nano-photonics and acoustics
+2-s2.0-85125776534	Unsupervised Feature Selection Method Based on Sensitivity and Correlation Concepts for Multiclass Problems
+2-s2.0-84945940346	ACKTUS-A platform for developing personalized support systems in the health domain
+2-s2.0-85091926010	Quantales for uncertainty in design engineering
+2-s2.0-85096604696	Dynamic Features Spaces and Machine Learning: Open Problems and Synthetic Data Sets
+2-s2.0-85070940309	The glass box approach: Verifying contextual adherence to values
+2-s2.0-85090875005	Mediating joint intentions with a dialogue management system
+2-s2.0-85115860874	Validity, reliability, and responsiveness of daily monitoring visual analog scales in MASK-airÂ®
+2-s2.0-85098787449	Argumentation-Based Health Information Systems: A Design Methodology
+2-s2.0-85098565241	HCI sustaining the rule of law and democracy: A European Perspective
+2-s2.0-85113339576	Explainable Reasoning in Face of Contradictions: From Humans to Machines
+2-s2.0-85101403625	Measuring the Strength of Rhetorical Arguments
+2-s2.0-84951277678	A feasibility evaluation approach for time-evolving multi-item production-distribution networks
+2-s2.0-85042553994	Adaptive image thresholding of yellow peppers for a harvesting robot
+2-s2.0-84944551632	Constraint-preserving snapshot isolation
+2-s2.0-85019018662	An experimental performance evaluation of autoscaling policies for complex workflows
+2-s2.0-85031013805	OSM Poi analyzer: A platform for assessing position of POIs in OpenStreetMap
+2-s2.0-84870765970	Distributed semantic architecture for smart grids
+2-s2.0-85044258873	Weighted DAG automata for semantic graphs
+2-s2.0-85095769111	How Can a Robot Trigger Human Backchanneling?
+2-s2.0-85057338979	AI4Peopleâ€”An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations
+2-s2.0-85090923140	How to center AI on humans
+2-s2.0-85050650946	Understandable robots
+2-s2.0-85142727875	EMCS: An Energy-Efficient Makespan Cost-Aware Scheduling Algorithm Using Evolutionary Learning Approach for Cloud-Fog-Based IoT Applications
+2-s2.0-85114430053	Performance Comparison for Scientific Computations on the Edge via Relative Performance
+2-s2.0-84923972497	The straw that broke the camel's back: Safe cloud overbooking with application brownout
+2-s2.0-85139838816	A Whale Optimization Algorithm Based Resource Allocation Scheme for Cloud-Fog Based IoT Applications
+2-s2.0-85104376787	Optimal value estimation of intentional-value-substitution for learning regression models
+2-s2.0-85098852994	Security-Performance Trade-offs of Kubernetes Container Runtimes
+2-s2.0-85101295825	On the role of data anonymization in machine learning privacy
+2-s2.0-84887336979	Multi-matrices factorization with application to missing sensor data imputation
+2-s2.0-85068043886	Infrastructure-independent indoor localization and navigation
+2-s2.0-85138685291	COVID-19-Associated Lung Lesion Detection by Annotating Medical Image with Semi Self-Supervised Technique
+2-s2.0-85122486374	HiVG: A hierarchical indoor visibility-based graph for navigation guidance in multi-storey buildings
+2-s2.0-85121934752	Fed-FiS: aÂ Novel Information-Theoretic Federated Feature Selection forÂ Learning Stability
+2-s2.0-84991728080	Self-adaptive capacity controller: A reinforcement learning approach
+2-s2.0-84978880639	Deterministic stack transducers
+2-s2.0-84894423199	Symmetric matrix pencils: Codimension counts and the solution of a pair of matrix equations
+2-s2.0-84957922004	Structurally cyclic petri nets
+2-s2.0-84901267509	Improving perfect parallelism
+2-s2.0-84910123354	Deliberative argumentation for smart environments
+2-s2.0-84893812143	Towards categorical fuzzy logic programming
+2-s2.0-85115322215	ICDAR 2021 Competition on Multimodal Emotion Recognition on Comics Scenes
+2-s2.0-85033471742	Diagnostic reasoning guided by a decision-support system: A case study
+2-s2.0-85028053319	Syntactic methods for topic-independent authorship attribution
+2-s2.0-85111727330	Work-Stealing Prefix Scan: Addressing Load Imbalance in Large-Scale Image Registration
+2-s2.0-84870976842	Optimal control of a ball pitching robot
+2-s2.0-85065965824	Stable-Ordered Models for Propositional Theories with Order Operators
+2-s2.0-85123431800	Dissecting Membership Inference Risk inÂ Machine Learning
+2-s2.0-84893435779	Decentralized prioritization-based management systems for distributed computing
+2-s2.0-85044716269	Blocked algorithms for robust solution of triangular linear systems
+2-s2.0-85107238525	Exploring limitations of user interface design to understanding the gap between technology and seniors
+2-s2.0-85030328478	Towards understanding HPC users and systems: A NERSC case study
+2-s2.0-84929518614	End Users Transforming Experiences into Formal Information and Process Models for Personalised Health Interventions
+2-s2.0-84864287781	Egocentric interaction as a tool for designing ambient ecologies - The case of the easy ADL ecology
+2-s2.0-85108915765	Linnea: Automatic Generation of Efficient Linear Algebra Programs
+2-s2.0-85140485328	Smartphone Based Grape Leaf Disease Diagnosis andÂ Remedial System Assisted withÂ Explanations
+2-s2.0-85113709912	Model-based Stream Processing Auto-scaling in Geo-Distributed Environments
+2-s2.0-84882972131	Supporting business workflows in smart grids: An intelligent nodes-based approach
+2-s2.0-84885592580	Proxemics awareness in kitchen as-a-pal: Tracking objects and human in perspective
+2-s2.0-85088560917	Explainable Agents for Less Bias in Human-Agent Decision Making
+2-s2.0-84903794268	Monadic formal concept analysis
+2-s2.0-85034991833	Bias of cylinder diameter estimation from ground-based laser scanners with different beam widths: A simulation study
+2-s2.0-85137932084	Why Bad Coffee? Explaining BDI Agent Behaviour with Valuings (Extended Abstract)
