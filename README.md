@@ -1,5 +1,5 @@
 # vosviewer-online-exempel
-Kodfragment till "Nätverksvisualisering med VOSviewer" 2023-12-15
+Kodfragment till "Nätverksvisualisering med VOSviewer" 2023-12-15. Se först VOSviewer online - exempel.pptx.
 <p>
 <b>AddToVOSViewerNetwork.py</b> används för att läsa in ett nätverk i <a href="https://app.vosviewer.com/docs/file-types/json-file-type">JSON-format</a> (exporterat från VOSViewer) med syfte att exemplifiera hur information kan adderas till såväl klusternivå som till enskilda noder.
 </p>
